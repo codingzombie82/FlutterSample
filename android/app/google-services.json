@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "658080860612",
+    "project_id": "louismong-cc7ad",
+    "storage_bucket": "louismong-cc7ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658080860612:android:fbfd4e043803e66b323c91",
+        "android_client_info": {
+          "package_name": "com.changzakso.louismong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658080860612-gdf3upv050ghfiticc4vnl8gcidhh54k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.changzakso.louismong",
+            "certificate_hash": "1a036fa7b5fc4d44eb09acccfaee79509512d286"
+          }
+        },
+        {
+          "client_id": "658080860612-l2kr7vj8k5tvrfatp7ot65vpaiiad85a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC3cAJltYWx1aOlr6LJX_77HsO8RQtHRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658080860612-l2kr7vj8k5tvrfatp7ot65vpaiiad85a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
