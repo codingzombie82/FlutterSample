@@ -1,6 +1,6 @@
-# louismong
+# FluterSample
 
-louismong
+FluterSample
 
 ## Getting Started
 
